@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=206
+
+This is LaTeX Help info files `translated' as vim help file.
+You can add this file to your help system and then type
+
+:help kill
+
+or
+
+:help \kill
+
+to read something about this command.
